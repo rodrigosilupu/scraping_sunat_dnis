@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Proyecto de Web Scraping de Sunat</title>
+    
 </head>
 <body>
 
@@ -11,7 +11,7 @@
 <p>Este proyecto tiene como objetivo realizar web scraping en la página web de la <a href="https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp">Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat)</a> de Perú. El propósito es obtener información de empresas a partir de sus números de RUC (Registro Único de Contribuyentes) mediante la búsqueda por DNI (Documento Nacional de Identidad).</p>
 
 <h2>Input del Proyecto</h2>
-<p>El input del proyecto es una base de datos que contiene un listado de DNIs. Esta base de datos fue obtenida del <a href="[https://www.concursopublico.pe](https://objectstorage.us-ashburn-1.oraclecloud.com/p/Ovj4ah5usLFDMxJZEj8Q1wmkP3ld9SVohrd3t7yhw5Hf0jle-D5RGMG9_fr1Zc9n/n/id08kfinkj3s/b/doccontraloria/o/uneteanuestroequipo/documentos/listado_acc.pdf)">CONCURSO PÚBLICO DE MÉRITOS N° 01-2018-CG</a>, que es de acceso público.</p>
+<p>El input del proyecto es una base de datos que contiene un listado de DNIs. Esta base de datos fue obtenida del <a href="https://objectstorage.us-ashburn-1.oraclecloud.com/p/Ovj4ah5usLFDMxJZEj8Q1wmkP3ld9SVohrd3t7yhw5Hf0jle-D5RGMG9_fr1Zc9n/n/id08kfinkj3s/b/doccontraloria/o/uneteanuestroequipo/documentos/listado_acc.pdf">CONCURSO PÚBLICO DE MÉRITOS N° 01-2018-CG</a>, que es de acceso público.</p>
 
 
 <h2>Ejecución del Proyecto</h2>
