@@ -1,7 +1,7 @@
 """
 Created on May 15, 2024 
 
-Y@author: Rodrigo
+Y@author: Rodrigo Silupú Peñaranda
 """
 import os
 import re
